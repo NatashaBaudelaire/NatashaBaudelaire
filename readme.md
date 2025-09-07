@@ -2,7 +2,7 @@
 
 I am a Software Developer and a student of Systems Analysis and Development, with 5 years of experience in Computer Graphics at [SAGA](https://saga.com.br). I am fluent in English and participate in projects at [Porto Digital](https://www.portodigital.org) that combine technology, innovation, and creativity to create effective solutions. I have a strong interest in sharing knowledge, continuously improving my skills, and contributing to the development of the technology field. Additionally, I am a digital content creator, acting as a partner on [Twitch](https://www.twitch.tv/natashabaudelaire), where I stream, and I also produce vlogs for [YouTube](https://www.youtube.com/@NatashaBaudelaire).
 
-<hr style="border: 0; border-top: 1px solid #DE9EC8; width: 60%; margin-left: 0;">
+##
 <h4>Skills:</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
   <img src="https://img.shields.io/badge/HTML5-%23FFE7F7?style=for-the-badge&logo=html5&logoColor=%23555555" alt="HTML5">
