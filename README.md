@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/4bc9651a-7c87-4daf-84ef-8cf1ea93e42c)
+![Image](https://github.com/user-attachments/assets/ced97602-55eb-44c3-b200-94ad2f7b6816)
 
 I am a Software Developer and a student of Systems Analysis and Development, with 5 years of experience in Computer Graphics at [SAGA](https://saga.com.br). I am fluent in English and participate in projects at [Porto Digital](https://www.portodigital.org) that combine technology, innovation, and creativity to create effective solutions. I have a strong interest in sharing knowledge, continuously improving my skills, and contributing to the development of the technology field. Additionally, I am a digital content creator, acting as a partner on [Twitch](https://www.twitch.tv/natashabaudelaire), where I stream, and I also produce vlogs for [YouTube](https://www.youtube.com/@NatashaBaudelaire).
 
