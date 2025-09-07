@@ -9,15 +9,16 @@ I am a Software Developer and a student of Systems Analysis and Development, wit
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
   <img src="https://img.shields.io/badge/HTML5-%23FFE7F7?style=for-the-badge&logo=html5&logoColor=%23555555" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%23FFE7F7?style=for-the-badge&logo=css3&logoColor=%23555555" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-%23FFE7F7?style=for-the-badge&logo=react&logoColor=%23555555" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-%23FFE7F7?style=for-the-badge&logo=node.js&logoColor=%23555555" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-%23FFE7F7?style=for-the-badge&logo=java&logoColor=%23555555" alt="Java">
-  <img src="https://img.shields.io/badge/Python-%23FFE7F7?style=for-the-badge&logo=python&logoColor=%23555555" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%23FFE7F7?style=for-the-badge&logo=javascript&logoColor=%23555555" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-%23FFE7F7?style=for-the-badge&logo=typescript&logoColor=%23555555" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-%23FFE7F7?style=for-the-badge&logo=react&logoColor=%23555555" alt="React">
   <img src="https://img.shields.io/badge/Angular-%23FFE7F7?style=for-the-badge&logo=angular&logoColor=%23555555" alt="Angular">
   <img src="https://img.shields.io/badge/Vue.js-%23FFE7F7?style=for-the-badge&logo=vue.js&logoColor=%23555555" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Node.js-%23FFE7F7?style=for-the-badge&logo=node.js&logoColor=%23555555" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-%23FFE7F7?style=for-the-badge&logo=openjdk&logoColor=%23555555" alt="Java">
+  <img src="https://img.shields.io/badge/Python-%23FFE7F7?style=for-the-badge&logo=python&logoColor=%23555555" alt="Python">
   <img src="https://img.shields.io/badge/Photoshop-%23FFE7F7?style=for-the-badge&logo=adobe-photoshop&logoColor=%23555555" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Premiere%20Pro-%23FFE7F7?style=for-the-badge&logo=adobe-premiere&logoColor=%23555555" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/Premiere%20Pro-%23FFE7F7?style=for-the-badge&logo=adobe-premierepro&logoColor=%23555555" alt="Premiere Pro">
 </div>
 
 <h4>Connect with me:</h4>
