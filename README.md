@@ -27,6 +27,6 @@ I am a Software Developer and a student of Systems Analysis and Development, wit
     <img src="https://img.shields.io/badge/Behance-%23FFE7F7?style=for-the-badge&logo=behance&logoColor=%23555555" alt="Behance">
   </a>
   <a href="https://github.com/NatashaBaudelaire?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Projetos-%23FFE7F7?style=for-the-badge&logo=github&logoColor=%23555555" alt="Projetos">
+    <img src="https://img.shields.io/badge/Projects-%23FFE7F7?style=for-the-badge&logo=github&logoColor=%23555555" alt="Projetos">
   </a>
 </div>
