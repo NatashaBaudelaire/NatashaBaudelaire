@@ -29,9 +29,6 @@ I am a Software Developer and a student of Systems Analysis and Development, wit
   <a href="https://www.linkedin.com/in/natashabaudelaire" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23FFE7F7?style=for-the-badge&logo=linkedin&logoColor=%23555555" alt="LinkedIn">
   </a>
-  <a href="mailto:natashabaudelaire@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23FFE7F7?style=for-the-badge&logo=gmail&logoColor=%23555555" alt="Email">
-  </a>
     <a href="https://github.com/NatashaBaudelaire?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Projects-%23FFE7F7?style=for-the-badge&logo=github&logoColor=%23555555" alt="GitHub Projects">
   </a>
