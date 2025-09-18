@@ -2,7 +2,7 @@
 
 <h1 align="left">Hello, I'm Natasha Baudelaire</h1>
 
-I am a Software Developer and a student of Systems Analysis and Development, with five years of experience in Computer Graphics at [SAGA](https://saga.com.br), where I also completed a specialised course in the field. I am fluent in English and take part in projects at [Porto Digital](https://www.portodigital.org) that combine technology, innovation, and creativity to deliver effective solutions. I have a strong interest in sharing knowledge, continuously improving my skills, and contributing to the advancement of the technology sector. Additionally, I am a digital content creator, working as a [Twitch](https://www.twitch.tv/natashabaudelaire) partner where I stream, and I also produce vlogs for [YouTube](https://www.youtube.com/@NatashaBaudelaire).
+I am a software developer and a student of Systems Analysis and Development, with five years of experience in Computer Graphics at [SAGA](https://saga.com.br), where I also completed a specialised course in this field. I have an intermediate level of English, with skills in reading, writing, and comprehension. I participate in projects at [Porto Digital](https://www.portodigital.org) that combine technology, innovation, and creativity to develop effective solutions. I have a strong interest in sharing knowledge, continuously improving my skills, and contributing to the advancement of the technology sector. Additionally, I am a digital content creator and a partner on [Twitch](https://www.twitch.tv/natashabaudelaire), where I do live streams and produce vlogs for [YouTube](https://www.youtube.com/@NatashaBaudelaire).
 
 ##
 <h4>Skills:</h4>
