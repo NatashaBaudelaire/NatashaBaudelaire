@@ -1,8 +1,16 @@
 ![Image](https://github.com/user-attachments/assets/7fad3354-bc0b-46fb-81b6-fe0a199b2ec1)
 
-<h1 align="left">Hello, I'm Natasha Baudelaire</h1>
+<h1 align="left">Hello, I am Natasha Baudelaire</h1>
 
-I am a software developer and a student of Systems Analysis and Development, with five years of experience in Computer Graphics at [SAGA](https://saga.com.br), where I also completed a specialised course in this field. I have an intermediate level of English, with skills in reading, writing, and comprehension. I participate in projects at [Porto Digital](https://www.portodigital.org) that combine technology, innovation, and creativity to develop effective solutions. I have a strong interest in sharing knowledge, continuously improving my skills, and contributing to the advancement of the technology sector. Additionally, I am a digital content creator and a partner on [Twitch](https://www.twitch.tv/natashabaudelaire), where I do live streams and produce vlogs for [YouTube](https://www.youtube.com/@NatashaBaudelaire).
+Adriely Natasha Martins Andrade, professionally known as Natasha Baudelaire. I am a software developer and student of Systems Analysis and Development, with a specialisation in Computer Graphics from [SAGA](https://saga.com.br) and five years of practical experience in design, modelling, editing, and digital art. I possess basic English skills with good reading comprehension, writing, and communication abilities.
+
+My academic journey is focused on programming, systems development, and applied technology, with a strong interest in front-end development and solutions that integrate programming, design, and innovation. I currently participate in residency projects at [Porto Digital](https://www.portodigital.org).
+
+I am motivated by technical challenges and seek continuous learning, valuing teamwork, the exchange of ideas, and the creation of collaborative projects focused on quality, user experience, and innovation. I am interested in participating in technology events, hackathons, and projects that expand my network and practical experience in software development.
+
+Separately, I also work as a digital content creator, being a [Twitch](https://www.twitch.tv/natashabaudelaire) partner with live streams and producing daily vlogs for [YouTube](https://www.youtube.com/@NatashaBaudelaire).
+
+I am seeking opportunities for internships or entry-level positions in software development, with a focus on front-end, where I can apply my knowledge, collaborate with teams, and continue growing professionally.
 
 ##
 <h4>Skills:</h4>
