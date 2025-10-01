@@ -2,7 +2,7 @@
 
 <h1 align="left">Hello, I am Natasha Baudelaire</h1>
 
-Adriely Natasha Martins Andrade, professionally known as Natasha Baudelaire. I am a software developer and student of Systems Analysis and Development, with a specialisation in Computer Graphics from [SAGA](https://saga.com.br) and five years of practical experience in design, modelling, editing, and digital art. I possess basic English skills with good reading comprehension, writing, and communication abilities.
+Adriely Natasha Martins Andrade, known as Natasha Baudelaire. I am a software developer and student of Systems Analysis and Development, with a specialisation in Computer Graphics from [SAGA](https://saga.com.br) and five years of practical experience in design, modelling, editing, and digital art. I possess basic English skills with good reading comprehension, writing, and communication abilities.
 
 My academic journey is focused on programming, systems development, and applied technology, with a strong interest in front-end development and solutions that integrate programming, design, and innovation. I currently participate in residency projects at [Porto Digital](https://www.portodigital.org).
 
