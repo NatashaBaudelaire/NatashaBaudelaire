@@ -31,9 +31,7 @@ I am seeking opportunities for internships or entry-level positions in software 
   <img src="https://img.shields.io/badge/Premiere%20Pro-%23FFE7F7?style=for-the-badge&logo=adobe-premierepro&logoColor=%23555555" alt="Premiere Pro">
   <img src="https://img.shields.io/badge/Figma-%23FFE7F7?style=for-the-badge&logo=figma&logoColor=%23555555" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-%23FFE7F7?style=for-the-badge&logo=canva&logoColor=%23555555" alt="Canva">
-  <img src="https://img.shields.io/badge/Notion-%23FFE7F7?style=for-the-badge&logo=notion&logoColor=%23555555" alt="Notion">
 </div>
-
 
 <h4>Connect with me:</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
