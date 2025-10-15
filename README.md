@@ -23,7 +23,6 @@ I am seeking opportunities for internships or entry-level positions in software 
   <img src="https://img.shields.io/badge/Next.js-%23FFE7F7?style=for-the-badge&logo=next.js&logoColor=%23555555" alt="Next.js">
   <img src="https://img.shields.io/badge/Angular-%23FFE7F7?style=for-the-badge&logo=angular&logoColor=%23555555" alt="Angular">
   <img src="https://img.shields.io/badge/Vue.js-%23FFE7F7?style=for-the-badge&logo=vue.js&logoColor=%23555555" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Solid.js-%23FFE7F7?style=for-the-badge&logo=solid&logoColor=%23555555" alt="Solid.js">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%23FFE7F7?style=for-the-badge&logo=tailwindcss&logoColor=%23555555" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-%23FFE7F7?style=for-the-badge&logo=node.js&logoColor=%23555555" alt="Node.js">
   <img src="https://img.shields.io/badge/MySQL-%23FFE7F7?style=for-the-badge&logo=mysql&logoColor=%23555555" alt="MySQL">
