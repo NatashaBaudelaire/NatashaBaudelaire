@@ -20,14 +20,21 @@ I am seeking opportunities for internships or entry-level positions in software 
   <img src="https://img.shields.io/badge/JavaScript-%23FFE7F7?style=for-the-badge&logo=javascript&logoColor=%23555555" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-%23FFE7F7?style=for-the-badge&logo=typescript&logoColor=%23555555" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-%23FFE7F7?style=for-the-badge&logo=react&logoColor=%23555555" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-%23FFE7F7?style=for-the-badge&logo=next.js&logoColor=%23555555" alt="Next.js">
   <img src="https://img.shields.io/badge/Angular-%23FFE7F7?style=for-the-badge&logo=angular&logoColor=%23555555" alt="Angular">
   <img src="https://img.shields.io/badge/Vue.js-%23FFE7F7?style=for-the-badge&logo=vue.js&logoColor=%23555555" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Solid.js-%23FFE7F7?style=for-the-badge&logo=solid&logoColor=%23555555" alt="Solid.js">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%23FFE7F7?style=for-the-badge&logo=tailwindcss&logoColor=%23555555" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-%23FFE7F7?style=for-the-badge&logo=node.js&logoColor=%23555555" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-%23FFE7F7?style=for-the-badge&logo=openjdk&logoColor=%23555555" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-%23FFE7F7?style=for-the-badge&logo=mysql&logoColor=%23555555" alt="MySQL">
   <img src="https://img.shields.io/badge/Python-%23FFE7F7?style=for-the-badge&logo=python&logoColor=%23555555" alt="Python">
   <img src="https://img.shields.io/badge/Photoshop-%23FFE7F7?style=for-the-badge&logo=adobe-photoshop&logoColor=%23555555" alt="Photoshop">
   <img src="https://img.shields.io/badge/Premiere%20Pro-%23FFE7F7?style=for-the-badge&logo=adobe-premierepro&logoColor=%23555555" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/Figma-%23FFE7F7?style=for-the-badge&logo=figma&logoColor=%23555555" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-%23FFE7F7?style=for-the-badge&logo=canva&logoColor=%23555555" alt="Canva">
+  <img src="https://img.shields.io/badge/Notion-%23FFE7F7?style=for-the-badge&logo=notion&logoColor=%23555555" alt="Notion">
 </div>
+
 
 <h4>Connect with me:</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
