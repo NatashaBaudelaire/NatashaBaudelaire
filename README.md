@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/ad00e390-7654-4fa8-b603-4ab33c003d31)
+![Image](https://github.com/user-attachments/assets/f191d2a5-b176-4cf3-b267-c8e66447d79f)
 
 <h1 align="left">Hello, I am Natasha Baudelaire</h1>
 
