@@ -31,4 +31,4 @@ Currently seeking a front-end internship to apply my skills, collaborate with cr
 
 ### 💌 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFE7F7?style=for-the-badge&logo=linkedin&logoColor=555555)](https://www.linkedin.com/in/natashabaudelaire) [![Behance](https://img.shields.io/badge/Behance-FFE7F7?style=for-the-badge&logo=behance&logoColor=555555)](https://www.behance.net/natashaminako) [![GitHub](https://img.shields.io/badge/Projects-FFE7F7?style=for-the-badge&logo=github&logoColor=555555)](https://github.com/NatashaBaudelaire)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFE7F7?style=for-the-badge&logo=linkedin&logoColor=555555)](https://www.linkedin.com/in/natashabaudelaire) [![Behance](https://img.shields.io/badge/Behance-FFE7F7?style=for-the-badge&logo=behance&logoColor=555555)](https://www.behance.net/natashaminako) [![GitHub](https://img.shields.io/badge/Repositories-FFE7F7?style=for-the-badge&logo=github&logoColor=555555)]([https://github.com/NatashaBaudelaire](https://github.com/NatashaBaudelaire?tab=repositories))  
