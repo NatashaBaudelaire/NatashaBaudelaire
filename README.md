@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/0918e27b-4d59-466b-846b-4e6f5a0add52)
 ### Front-End Developer, Designer & UI/UX  
 
 ---
