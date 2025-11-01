@@ -1,9 +1,5 @@
 ### Front-End Developer, Designer & UI/UX  
 
-### 💌 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFE7F7?style=for-the-badge&logo=linkedin&logoColor=555555)](https://www.linkedin.com/in/natashabaudelaire) [![Behance](https://img.shields.io/badge/Behance-FFE7F7?style=for-the-badge&logo=behance&logoColor=555555)](https://www.behance.net/natashaminako) [![GitHub](https://img.shields.io/badge/Projects-FFE7F7?style=for-the-badge&logo=github&logoColor=555555)](https://github.com/NatashaBaudelaire)  
-
 ---
 
 I’m a Systems Analysis and Development student, passionate about transforming ideas into tangible digital experiences. I enjoy blending programming, design, and digital art to create interfaces that express both emotion and purpose.
@@ -32,3 +28,7 @@ Currently seeking a front-end internship to apply my skills, collaborate with cr
 ![Photoshop](https://img.shields.io/badge/Photoshop-FFE7F7?style=for-the-badge&logo=adobe-photoshop&logoColor=555555)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-FFE7F7?style=for-the-badge&logo=adobe-premierepro&logoColor=555555)
 ![Canva](https://img.shields.io/badge/Canva-FFE7F7?style=for-the-badge&logo=canva&logoColor=555555)
+
+### 💌 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFE7F7?style=for-the-badge&logo=linkedin&logoColor=555555)](https://www.linkedin.com/in/natashabaudelaire) [![Behance](https://img.shields.io/badge/Behance-FFE7F7?style=for-the-badge&logo=behance&logoColor=555555)](https://www.behance.net/natashaminako) [![GitHub](https://img.shields.io/badge/Projects-FFE7F7?style=for-the-badge&logo=github&logoColor=555555)](https://github.com/NatashaBaudelaire)  
