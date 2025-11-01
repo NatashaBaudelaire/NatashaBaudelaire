@@ -8,9 +8,9 @@
 
 I’m a Systems Analysis and Development student, passionate about transforming ideas into tangible digital experiences. I enjoy blending programming, design, and digital art to create interfaces that express both emotion and purpose.
 
-My journey began with curiosity small lines of code, visual experiments, and a constant desire to learn. Over time, I realised that development feels much like assembling a puzzle: every piece matters, and watching it all come together is what inspires me most.
+My journey began with curiosity small lines of code, visual experiments, and a constant desire to learn. Over time, I realised that development feels much like assembling a puzzle: every piece matters, and watching it all come together is what inspires me most. **Crafting digital experiences that transform imagination into reality.**
 
-I’m currently seeking an internship or entry-level opportunity in Front-End Development, where I can apply my skills, collaborate with creative teams, and continue to grow both personally and professionally.
+Currently seeking a front-end internship to apply my skills, collaborate with creative teams, and grow as a developer.
 
 ---
 
