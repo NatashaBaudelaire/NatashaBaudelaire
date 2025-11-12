@@ -4,13 +4,13 @@
 
 I’m a Systems Analysis and Development student, passionate about transforming ideas into tangible digital experiences. I enjoy blending programming, design, and digital art to create interfaces that express both emotion and purpose.
 
-My journey began with curiosity small lines of code, visual experiments, and a constant desire to learn. Over time, I realised that development feels much like assembling a puzzle: every piece matters, and watching it all come together is what inspires me most. **Crafting digital experiences that transform imagination into reality.**
+My journey began with curiosity, small lines of code, visual experiments, and a constant desire to learn. Over time, I realised that development feels much like assembling a puzzle: every piece matters, and watching it all come together is what inspires me most. **Crafting digital experiences that transform imagination into reality.**
 
 Currently seeking a front-end internship to apply my skills, collaborate with creative teams, and grow as a developer.
 
 ---
 
-### 🩷 Tech & Tools  
+### Tech & Tools  
 
 ![HTML5](https://img.shields.io/badge/HTML5-FFE7F7?style=for-the-badge&logo=html5&logoColor=555555)
 ![CSS3](https://img.shields.io/badge/CSS3-FFE7F7?style=for-the-badge&logo=css3&logoColor=555555)
@@ -29,6 +29,6 @@ Currently seeking a front-end internship to apply my skills, collaborate with cr
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-FFE7F7?style=for-the-badge&logo=adobe-premierepro&logoColor=555555)
 ![Canva](https://img.shields.io/badge/Canva-FFE7F7?style=for-the-badge&logo=canva&logoColor=555555)
 
-### 💌 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFE7F7?style=for-the-badge&logo=linkedin&logoColor=555555)](https://www.linkedin.com/in/natashabaudelaire) [![Behance](https://img.shields.io/badge/Behance-FFE7F7?style=for-the-badge&logo=behance&logoColor=555555)](https://www.behance.net/natashaminako) [![GitHub](https://img.shields.io/badge/Repositories-FFE7F7?style=for-the-badge&logo=github&logoColor=555555)]([https://github.com/NatashaBaudelaire](https://github.com/NatashaBaudelaire?tab=repositories))  
