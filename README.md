@@ -1,35 +1,44 @@
-### Front-End Developer, Designer & UI/UX  
+# hi, i’m natasha! 
+
+✧ full stack developer in training, sharing my journey and learnings in tech  
+✧ bachelor’s student in systems analysis and development at the university of center, brazil  
+✧ creating content about lifestyle, fashion, vlogs, and productivity on [youtube](https://www.youtube.com/channel/UCkBeytSeAo9qdKXUBA4vLwA?sub_confirmation=1) and streaming on [twitch](https://www.twitch.tv/natashabaudelaire)
+
 
 ---
 
-I am a Systems Analysis and Development student, passionate about turning ideas into tangible digital experiences. I enjoy blending programming, design, and digital art to create interfaces that convey emotion, purpose, and identity.
-
-My journey began with curiosity, small lines of code, visual experiments, and an endless desire to learn. Over time, I realised that development feels a lot like assembling a puzzle: every piece matters, and watching everything come together is what inspires me the most. Creating digital experiences that transform imagination into reality is what drives my work.
-
-I am currently seeking a front-end internship that allows me to apply my skills, collaborate with creative teams, and continue growing as a developer.
+![HTML5](https://img.shields.io/badge/HTML5-FFDDEE?style=for-the-badge&logo=html5&logoColor=B35C7D) ![CSS3](https://img.shields.io/badge/CSS3-FFDDEE?style=for-the-badge&logo=css3&logoColor=B35C7D) ![javascript](https://img.shields.io/badge/JavaScript-FFDDEE?style=for-the-badge&logo=javascript&logoColor=B35C7D) ![typescript](https://img.shields.io/badge/TypeScript-FFDDEE?style=for-the-badge&logo=typescript&logoColor=B35C7D) ![react](https://img.shields.io/badge/React-FFDDEE?style=for-the-badge&logo=react&logoColor=B35C7D) ![next.js](https://img.shields.io/badge/Next.js-FFDDEE?style=for-the-badge&logo=next.js&logoColor=B35C7D) ![node.js](https://img.shields.io/badge/Node.js-FFDDEE?style=for-the-badge&logo=node.js&logoColor=B35C7D) ![python](https://img.shields.io/badge/Python-FFDDEE?style=for-the-badge&logo=python&logoColor=B35C7D) ![java](https://img.shields.io/badge/Java-FFDDEE?style=for-the-badge&logo=java&logoColor=B35C7D) ![mysql](https://img.shields.io/badge/MySQL-FFDDEE?style=for-the-badge&logo=mysql&logoColor=B35C7D) ![postgresql](https://img.shields.io/badge/PostgreSQL-FFDDEE?style=for-the-badge&logo=postgresql&logoColor=B35C7D) ![figma](https://img.shields.io/badge/Figma-FFDDEE?style=for-the-badge&logo=figma&logoColor=B35C7D) ![photoshop](https://img.shields.io/badge/Photoshop-FFDDEE?style=for-the-badge&logo=adobe-photoshop&logoColor=B35C7D) ![canva](https://img.shields.io/badge/Canva-FFDDEE?style=for-the-badge&logo=canva&logoColor=B35C7D) ![premiere pro](https://img.shields.io/badge/Premiere_Pro-FFDDEE?style=for-the-badge&logo=adobe-premierepro&logoColor=B35C7D)
 
 ---
 
-### Tech & Tools  
+### 🎬 featured videos
 
-![HTML5](https://img.shields.io/badge/HTML5-A7C7E7?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-A7C7E7?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-A7C7E7?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-A7C7E7?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-A7C7E7?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/Next.js-A7C7E7?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![Angular](https://img.shields.io/badge/Angular-A7C7E7?style=for-the-badge&logo=angular&logoColor=FFFFFF)
-![Vue.js](https://img.shields.io/badge/Vue.js-A7C7E7?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-A7C7E7?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-A7C7E7?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-A7C7E7?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-A7C7E7?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-A7C7E7?style=for-the-badge&logo=figma&logoColor=FFFFFF)
-![Photoshop](https://img.shields.io/badge/Photoshop-A7C7E7?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-A7C7E7?style=for-the-badge&logo=adobe-premierepro&logoColor=FFFFFF)
-![Canva](https://img.shields.io/badge/Canva-A7C7E7?style=for-the-badge&logo=canva&logoColor=FFFFFF)
+<!-- BEGIN YOUTUBE-CARDS -->
+[![routine day, simple makeup & blackpink in born pink tour](https://ytcards.demolab.com/?id=N8OeGwY54qw&title=routine+day,+simple+makeup+&+blackpink+in+born+pink+tour&lang=en&timestamp=1765898031&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&duration=43)](https://www.youtube.com/watch?v=ecV07gkVxUg) 
+[![amazing day: haircut, trip, birthday + skincare](https://ytcards.demolab.com/?id=YAUMPml8srg&title=amazing+day:+haircut,+trip,+birthday+skincare&lang=en&timestamp=1765822504&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&duration=987)](https://youtu.be/YAUMPml8srg)
+<!-- END YOUTUBE-CARDS -->
 
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/natashabaudelaire)
-[![Behance](https://img.shields.io/badge/Behance-A7C7E7?style=for-the-badge&logo=behance&logoColor=FFFFFF)](https://www.behance.net/natashaminako)
-[![GitHub](https://img.shields.io/badge/Repositories-A7C7E7?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/NatashaBaudelaire?tab=repositories)
+---
+### 💌 my socials
+<p align="left">
+  <a href="https://www.youtube.com/@NatashaBaudelaire">
+    <img alt="youtube" title="follow me on youtube" 
+         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23FFDDEE&label=YouTube&logo=video&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>  
+  </a>
+  <a href="https://www.instagram.com/natashabaudelaire/">
+    <img alt="instagram" title="follow me on instagram" 
+         src="https://custom-icon-badges.demolab.com/badge/Instagram-FFDDEE?style=for-the-badge&logo=instagram&logoColor=B35C7D"/>
+  </a>
+  <a href="https://www.tiktok.com/@natashabaudelaire">
+    <img alt="tiktok" title="follow me on tiktok" 
+         src="https://custom-icon-badges.demolab.com/badge/TikTok-FFDDEE?style=for-the-badge&logo=tiktok&logoColor=B35C7D"/>
+  </a>
+  <a href="https://www.twitch.tv/natashabaudelaire">
+    <img alt="twitch" title="follow me on twitch" 
+         src="https://custom-icon-badges.demolab.com/badge/Twitch-FFDDEE?style=for-the-badge&logo=twitch&logoColor=B35C7D"/>
+  </a>
+  <a href="https://www.linkedin.com/in/natashabaudelaire/">
+    <img alt="linkedin" title="follow me on linkedin" 
+         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FFDDEE?style=for-the-badge&logo=linkedin&logoColor=B35C7D"/>
+  </a>
+</p>
