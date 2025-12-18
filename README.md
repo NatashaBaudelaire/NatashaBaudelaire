@@ -53,7 +53,7 @@
   </a>
   <a href="https://www.twitch.tv/natashabaudelaire">
     <img alt="twitch" title="follow me on twitch" 
-         src="https://custom-icon-badges.demolab.com/badge/1k-FFDDEE?color=%23FFDDEE&label=Twitch&logo=Twitch&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
+         src="https://custom-icon-badges.demolab.com/badge/2.6k-FFDDEE?color=%23FFDDEE&label=Twitch&logo=Twitch&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
   </a>
   <a href="https://www.linkedin.com/in/natashabaudelaire/">
     <img alt="linkedin" title="follow me on linkedin" 
