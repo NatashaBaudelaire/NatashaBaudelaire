@@ -35,28 +35,3 @@
 [![routine day, simple makeup & blackpink in born pink tour](https://ytcards.demolab.com/?id=N8OeGwY54qw&title=routine+day,+simple+makeup+&+blackpink+in+born+pink+tour&lang=en&timestamp=1765898031&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&duration=43)](https://www.youtube.com/watch?v=ecV07gkVxUg) 
 [![amazing day: haircut, trip, birthday + skincare](https://ytcards.demolab.com/?id=YAUMPml8srg&title=amazing+day:+haircut,+trip,+birthday+skincare&lang=en&timestamp=1765822504&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&duration=987)](https://youtu.be/YAUMPml8srg)
 <!-- END YOUTUBE-CARDS -->
-
----
-### 💌 my socials
-<p align="left">
-  <a href="https://www.youtube.com/@NatashaBaudelaire">
-    <img alt="youtube" title="follow me on youtube" 
-         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkBeytSeAo9qdKXUBA4vLwA?color=%23FFDDEE&label=YouTube&logo=video&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>  
-  </a>
-  <a href="https://www.instagram.com/natashabaudelaire/">
-    <img alt="instagram" title="follow me on instagram" 
-         src="https://custom-icon-badges.demolab.com/badge/2k-FFDDEE?color=%23FFDDEE&label=Instagram&logo=Instagram&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
-  </a>
-  <a href="https://www.tiktok.com/@natashabaudelaire">
-    <img alt="tiktok" title="follow me on tiktok" 
-         src="https://custom-icon-badges.demolab.com/badge/12k-FFDDEE?color=%23FFDDEE&label=TikTok&logo=TikTok&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
-  </a>
-  <a href="https://www.twitch.tv/natashabaudelaire">
-    <img alt="twitch" title="follow me on twitch" 
-         src="https://custom-icon-badges.demolab.com/badge/2.6k-FFDDEE?color=%23FFDDEE&label=Twitch&logo=Twitch&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
-  </a>
-  <a href="https://www.linkedin.com/in/natashabaudelaire/">
-    <img alt="linkedin" title="follow me on linkedin" 
-         src="https://custom-icon-badges.demolab.com/badge/500-FFDDEE?color=%23FFDDEE&label=Linkedin&logo=Linkedin&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
-  </a>
-</p>
