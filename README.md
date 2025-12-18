@@ -1,16 +1,34 @@
 # hi, i’m natasha! 
 
-✧ full stack developer in training, sharing my journey and learnings in tech  
-✧ bachelor’s student in systems analysis and development at the university of center, brazil  
-✧ creating content about lifestyle, fashion, vlogs, and productivity on [youtube](https://www.youtube.com/channel/UCkBeytSeAo9qdKXUBA4vLwA?sub_confirmation=1) and streaming on [twitch](https://www.twitch.tv/natashabaudelaire)
-
-
----
-
-![HTML5](https://img.shields.io/badge/HTML5-FFDDEE?style=for-the-badge&logo=html5&logoColor=B35C7D) ![CSS3](https://img.shields.io/badge/CSS3-FFDDEE?style=for-the-badge&logo=css3&logoColor=B35C7D) ![javascript](https://img.shields.io/badge/JavaScript-FFDDEE?style=for-the-badge&logo=javascript&logoColor=B35C7D) ![typescript](https://img.shields.io/badge/TypeScript-FFDDEE?style=for-the-badge&logo=typescript&logoColor=B35C7D) ![react](https://img.shields.io/badge/React-FFDDEE?style=for-the-badge&logo=react&logoColor=B35C7D) ![next.js](https://img.shields.io/badge/Next.js-FFDDEE?style=for-the-badge&logo=next.js&logoColor=B35C7D) ![node.js](https://img.shields.io/badge/Node.js-FFDDEE?style=for-the-badge&logo=node.js&logoColor=B35C7D) ![python](https://img.shields.io/badge/Python-FFDDEE?style=for-the-badge&logo=python&logoColor=B35C7D) ![java](https://img.shields.io/badge/Java-FFDDEE?style=for-the-badge&logo=java&logoColor=B35C7D) ![mysql](https://img.shields.io/badge/MySQL-FFDDEE?style=for-the-badge&logo=mysql&logoColor=B35C7D) ![postgresql](https://img.shields.io/badge/PostgreSQL-FFDDEE?style=for-the-badge&logo=postgresql&logoColor=B35C7D) ![figma](https://img.shields.io/badge/Figma-FFDDEE?style=for-the-badge&logo=figma&logoColor=B35C7D) ![photoshop](https://img.shields.io/badge/Photoshop-FFDDEE?style=for-the-badge&logo=adobe-photoshop&logoColor=B35C7D) ![canva](https://img.shields.io/badge/Canva-FFDDEE?style=for-the-badge&logo=canva&logoColor=B35C7D) ![premiere pro](https://img.shields.io/badge/Premiere_Pro-FFDDEE?style=for-the-badge&logo=adobe-premierepro&logoColor=B35C7D)
+✧ full stack developer in training, sharing my tech journey  
+✧ bachelor’s student in systems analysis and development, university of center, brazil  
+✧ creating lifestyle, vlogs and productivity content on [youtube](https://www.youtube.com/channel/UCkBeytSeAo9qdKXUBA4vLwA?sub_confirmation=1) and [twitch](https://www.twitch.tv/natashabaudelaire)
 
 ---
+### 💻 technologies
 
+
+![HTML5](https://img.shields.io/badge/HTML5-FFDDEE?style=for-the-badge&logo=html5&logoColor=B35C7D) 
+![CSS3](https://img.shields.io/badge/CSS3-FFDDEE?style=for-the-badge&logo=css3&logoColor=B35C7D) 
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDDEE?style=for-the-badge&logo=javascript&logoColor=B35C7D) 
+![TypeScript](https://img.shields.io/badge/TypeScript-FFDDEE?style=for-the-badge&logo=typescript&logoColor=B35C7D) 
+![React](https://img.shields.io/badge/React-FFDDEE?style=for-the-badge&logo=react&logoColor=B35C7D) 
+![Next.js](https://img.shields.io/badge/Next.js-FFDDEE?style=for-the-badge&logo=next.js&logoColor=B35C7D)
+
+![Node.js](https://img.shields.io/badge/Node.js-FFDDEE?style=for-the-badge&logo=node.js&logoColor=B35C7D) 
+![Python](https://img.shields.io/badge/Python-FFDDEE?style=for-the-badge&logo=python&logoColor=B35C7D) 
+![Java](https://img.shields.io/badge/Java-FFDDEE?style=for-the-badge&logo=java&logoColor=B35C7D)
+
+![MySQL](https://img.shields.io/badge/MySQL-FFDDEE?style=for-the-badge&logo=mysql&logoColor=B35C7D) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFDDEE?style=for-the-badge&logo=postgresql&logoColor=B35C7D)
+
+![Figma](https://img.shields.io/badge/Figma-FFDDEE?style=for-the-badge&logo=figma&logoColor=B35C7D)
+![Notion](https://img.shields.io/badge/Notion-FFDDEE?style=for-the-badge&logo=notion&logoColor=B35C7D)
+![Photoshop](https://img.shields.io/badge/Photoshop-FFDDEE?style=for-the-badge&logo=adobe-photoshop&logoColor=B35C7D) 
+![Canva](https://img.shields.io/badge/Canva-FFDDEE?style=for-the-badge&logo=canva&logoColor=B35C7D) 
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-FFDDEE?style=for-the-badge&logo=adobe-premierepro&logoColor=B35C7D)
+
+---
 ### 🎬 featured videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -23,22 +41,22 @@
 <p align="left">
   <a href="https://www.youtube.com/@NatashaBaudelaire">
     <img alt="youtube" title="follow me on youtube" 
-         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23FFDDEE&label=YouTube&logo=video&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>  
+         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCkBeytSeAo9qdKXUBA4vLwA?color=%23FFDDEE&label=YouTube&logo=video&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>  
   </a>
   <a href="https://www.instagram.com/natashabaudelaire/">
     <img alt="instagram" title="follow me on instagram" 
-         src="https://custom-icon-badges.demolab.com/badge/Instagram-FFDDEE?style=for-the-badge&logo=instagram&logoColor=B35C7D"/>
+         src="https://custom-icon-badges.demolab.com/badge/2k-FFDDEE?color=%23FFDDEE&label=Instagram&logo=Instagram&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
   </a>
   <a href="https://www.tiktok.com/@natashabaudelaire">
     <img alt="tiktok" title="follow me on tiktok" 
-         src="https://custom-icon-badges.demolab.com/badge/TikTok-FFDDEE?style=for-the-badge&logo=tiktok&logoColor=B35C7D"/>
+         src="https://custom-icon-badges.demolab.com/badge/12k-FFDDEE?color=%23FFDDEE&label=TikTok&logo=TikTok&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
   </a>
   <a href="https://www.twitch.tv/natashabaudelaire">
     <img alt="twitch" title="follow me on twitch" 
-         src="https://custom-icon-badges.demolab.com/badge/Twitch-FFDDEE?style=for-the-badge&logo=twitch&logoColor=B35C7D"/>
+         src="https://custom-icon-badges.demolab.com/badge/1k-FFDDEE?color=%23FFDDEE&label=Twitch&logo=Twitch&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
   </a>
   <a href="https://www.linkedin.com/in/natashabaudelaire/">
     <img alt="linkedin" title="follow me on linkedin" 
-         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FFDDEE?style=for-the-badge&logo=linkedin&logoColor=B35C7D"/>
+         src="https://custom-icon-badges.demolab.com/badge/500-FFDDEE?color=%23FFDDEE&label=Linkedin&logo=Linkedin&logoColor=%23B35C7D&style=for-the-badge&labelColor=%23FFDDEE"/>
   </a>
 </p>
