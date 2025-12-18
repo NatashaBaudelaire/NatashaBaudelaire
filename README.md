@@ -8,7 +8,8 @@
 [youtube](https://www.youtube.com/channel/UCkBeytSeAo9qdKXUBA4vLwA?sub_confirmation=1) | 
 [instagram](https://www.instagram.com/natashabaudelaire/) | 
 [twitch](https://www.twitch.tv/natashabaudelaire) | 
-[tiktok](https://www.tiktok.com/@natashabaudelaire)
+[tiktok](https://www.tiktok.com/@natashabaudelaire) |
+[linkedin](https://www.linkedin.com/in/natashabaudelaire/)
 
 ---
 
