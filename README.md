@@ -1,8 +1,8 @@
 # hi, i’m natasha! 👋
 
 ✧ full stack developer in training, sharing my tech journey  
-✧ bachelor’s student in systems analysis & development, university of center, brazil  
-✧ creating lifestyle, vlogs & productivity content  
+✧ bachelor’s student in systems analysis and development, university of center, brazil  
+✧ creating lifestyle, vlogs and productivity content  
 
 💌 **connect with me:**  
 [youtube](https://www.youtube.com/channel/UCkBeytSeAo9qdKXUBA4vLwA?sub_confirmation=1) | 
