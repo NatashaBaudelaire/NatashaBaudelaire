@@ -1,7 +1,7 @@
 # hi, i’m natasha! 👋
 
 ✧ front-end developer & designer, sharing my tech journey  
-✧ technology student in systems analysis and development at centro universitário tiradentes, brazil 
+✧ technology student in systems analysis and development at centro universitário tiradentes, brazil  
 ✧ creating lifestyle, vlogs and productivity content
 
 💌 **connect with me:**  
