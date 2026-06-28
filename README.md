@@ -1,7 +1,7 @@
 # hi, i’m natasha! 👋
 
- ✧ full stack developer & designer, sharing my tech journey
- ✧ systems analysis and development student
+ ✧ full stack developer & designer, sharing my tech journey 
+ ✧ systems analysis and development student 
  ✧ lifestyle, vlogs & productivity content
 
 💌 **connect with me:**  
