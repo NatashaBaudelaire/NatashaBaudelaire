@@ -1,8 +1,8 @@
 # hi, i’m natasha! 👋
 
-✧ full stack developer & designer, sharing my tech journey  
-✧ technology student in systems analysis and development at centro universitário tiradentes, brazil  
-✧ creating lifestyle, vlogs and productivity content
+✧ full stack developer & designer, sharing my tech journey
+✧ systems analysis and development student
+✧ lifestyle, vlogs & productivity content
 
 💌 **connect with me:**  
 [youtube](https://www.youtube.com/channel/UCkBeytSeAo9qdKXUBA4vLwA?sub_confirmation=1) | 
