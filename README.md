@@ -7,4 +7,6 @@ My approach goes beyond code. I think about architecture, performance, and scala
 Check out all my projects on my GitHub profile.
 I also enjoy helping new devs get into this world and learn more about software development.
 
-<img src="https://img.shields.io/badge/Natasha%20Baudelaire-FFDDEE?style=flat-square&labelColor=FFDDEE&color=FFDDEE" alt="Natasha Baudelaire">
+<a href="https://www.linkedin.com/in/Natasha-Baudelaire/">
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Natasha%20Baudelaire-FFDDEE?style=flat-square"/>
+</a>
