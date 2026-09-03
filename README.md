@@ -7,4 +7,4 @@ My approach goes beyond code. I think about architecture, performance, and scala
 Check out all my projects on my GitHub profile.
 I also enjoy helping new devs get into this world and learn more about software development.
 
-<a href="https://www.linkedin.com/in/natasha-baudelaire/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-FFDDEE?style=for-the-badge&logo=linkedin&logoColor=B35C7D" alt="LinkedIn"/> </a> <a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/Email-FFDDEE?style=for-the-badge&logo=gmail&logoColor=B35C7D" alt="Email"/> </a>
+<img src="https://img.shields.io/badge/Natasha%20Baudelaire-FFDDEE?style=flat-square&labelColor=FFDDEE&color=FFDDEE" alt="Natasha Baudelaire">
