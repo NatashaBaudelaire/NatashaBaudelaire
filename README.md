@@ -1,9 +1,10 @@
-## Elias Gabriel
+## Natasha Baudelaire
 
-I'm a _JavaScript_ Full-Stack Developer (Node.js, ReactJS, React Native).<br/>
+I'm a Software Development Student with hands-on experience as a _Full-Stack Developer_, and a strong interest in Software Engineering. Skilled in React.js, TypeScript, Node.js, Java, and C#.<br/>
 
-Here on my GitHub profile you can see all my projects.  
-Also I like to help new Dev's to get inside this world and learning about software development.
+My approach goes beyond code. I think about architecture, performance, and scalability across the full stack, from business logic to user experience, combining technical precision with design sensibility.
 
-<a href="https://twitter.com/EliasGcf"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@EliasGcf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/EliasGcf"/></a>
-<a href="https://www.linkedin.com/in/eliasgcf/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Elias%20Gabriel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasgcf/"/></a>
+Check out all my projects on my GitHub profile.
+I also enjoy helping new devs get into this world and learn more about software development.
+
+<a href="https://www.linkedin.com/in/natasha-baudelaire/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-FFDDEE?style=for-the-badge&logo=linkedin&logoColor=B35C7D" alt="LinkedIn"/> </a> <a href="mailto:SEU_EMAIL_AQUI"> <img src="https://img.shields.io/badge/Email-FFDDEE?style=for-the-badge&logo=gmail&logoColor=B35C7D" alt="Email"/> </a>
