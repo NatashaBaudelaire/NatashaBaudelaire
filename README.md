@@ -1,6 +1,6 @@
 ## Natasha Baudelaire
 
-I'm a Software Development Student with hands-on experience as a _Full-Stack Developer_, and a strong interest in Software Engineering. Skilled in JavaScript, TypeScript, React.js, Java and SQL.<br/>
+I'm a Software Development Student with hands-on experience as a _Full-Stack Developer_, and a strong interest in Software Engineering. JavaScript, TypeScript, React.js, Java and SQL.<br/>
 
 My approach goes beyond code. I think about architecture, performance, and scalability across the full stack, from business logic to user experience, combining technical precision with design sensibility.
 
