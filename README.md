@@ -1,11 +1,11 @@
 ## Natasha Baudelaire
 
 <a href="https://github.com/Natasha-Baudelaire" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/@Natasha--Baudelaire-C8A2C8?style=flat-square&logo=github&logoColor=FFFFFF"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/@Natasha--Baudelaire-B35C7D?style=flat-square&logo=github&logoColor=FFFFFF"/>
 </a> <a href="https://www.linkedin.com/in/Natasha-Baudelaire/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/Natasha%20Baudelaire-C8A2C8?style=flat-square&logo=linkedin&logoColor=FFFFFF"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Natasha%20Baudelaire-B35C7D?style=flat-square&logo=linkedin&logoColor=FFFFFF"/>
 </a> <a href="mailto:hello.natashabaudelaire@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/hello.natashabaudelaire%40gmail.com-C8A2C8?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
+  <img alt="Gmail" src="https://img.shields.io/badge/hello.natashabaudelaire%40gmail.com-B35C7D?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 I'm a Software Development Student with hands-on experience as a _Full-Stack Developer_. JavaScript, TypeScript, React.js, Java and SQL.
