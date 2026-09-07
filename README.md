@@ -8,9 +8,7 @@
   <img alt="Gmail" src="https://img.shields.io/badge/hello.natashabaudelaire%40gmail.com-C8A2C8?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
-I'm a Software Development Student with hands-on experience as a _Full-Stack Developer_.
-
-**Tech stack:** JavaScript · TypeScript · React.js · Java · SQL
+I'm a Software Development Student with hands-on experience as a _Full-Stack Developer_. JavaScript, TypeScript, React.js, Java and SQL.
 
 My approach goes beyond code. I think about architecture, performance, and scalability across the full stack, from business logic to user experience, combining technical precision with design sensibility.
 
