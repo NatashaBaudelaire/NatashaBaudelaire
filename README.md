@@ -1,7 +1,6 @@
 ## Natasha Baudelaire
 
-<a href="https://github.com/Natasha-Baudelaire" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/@Natasha--Baudelaire-B35C7D?style=flat-square&logo=github&logoColor=FFFFFF"/>
+
 </a> <a href="https://www.linkedin.com/in/Natasha-Baudelaire/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Natasha%20Baudelaire-B35C7D?style=flat-square&logo=linkedin&logoColor=FFFFFF"/>
 </a> <a href="mailto:hello.natashabaudelaire@gmail.com">
